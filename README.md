@@ -6,7 +6,7 @@ A simple Facebook Messenger UI Clone, for now the UI is not complete the only pa
   <tbody>
     <tr>
       <td><img src='https://github.com/quiet-programmer/facebook_messenger_ui/blob/master/ss/part1.png' width='300' height='700'></td>
-      td><img src='https://github.com/quiet-programmer/facebook_messenger_ui/blob/master/ss/part2.png' width='300' height='700'></td>
+      <td><img src='https://github.com/quiet-programmer/facebook_messenger_ui/blob/master/ss/part2.png' width='300' height='700'></td>
      </tr>
   </tbody>
 </table>
