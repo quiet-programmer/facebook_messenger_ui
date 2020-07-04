@@ -121,6 +121,9 @@ class _HomeState extends State<Home> {
                 height: 80,
                 width: double.infinity,
                 child: ListView.builder(
+                  primary: false,
+                  physics: NeverScrollableScrollPhysics(),
+                  shrinkWrap: true,
                   scrollDirection: Axis.horizontal,
                   itemCount: dummyImages.length,
                   itemBuilder: (_, index) {
